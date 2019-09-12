@@ -1,0 +1,31 @@
+package enumstorage.slave
+
+enum class SlaveInformation {
+    Ssid,
+    SsidTemporary,
+    DdfFile,
+    MacAddress,
+    MacAddressTemporary,
+    IpAddress,
+    DdfHash,
+    DeviceImageHash,
+    GoboImageHash,
+    Status,
+    Type,
+    Device,
+    Manufacturer,
+    Timestamp,
+    PositionX,
+    PositionY,
+    PositionZ,
+    RotationX,
+    RotationY,
+    RotationZ,
+    AccelerationX,
+    AccelerationY,
+    AccelerationZ,
+    Rotating,
+    CommandPort,
+    ErrorCode,
+    Enabled
+}

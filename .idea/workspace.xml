@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EnumStorage" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4db85aac-54f5-498a-93b9-5dbacf1c61c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/enumstorage/network/NetworkCommand.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/enumstorage/network/NetworkCommand.kt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="NotificationManager" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="NotificationManager" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="NotificationManager" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="NotificationManager" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/network/NetworkCommand.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/gobo/Gobo.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/device/Device.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/database/DatabaseCommand.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Resp</find>
+      <find>at.nlc.notificationmanager.enums</find>
+      <find>DdfH</find>
+      <find>show</find>
+      <find>Show</find>
+      <find>ControlSsidHandling</find>
+      <find>Response</find>
+      <find>Enabled</find>
+      <find>RecordExist</find>
+      <find>ImASlave</find>
+      <find>Identification</find>
+      <find>IpAddress</find>
+      <find>ConnectRequest</find>
+      <find>UpdatePo</find>
+      <find>clear</find>
+      <find>GetEnabledConfiguration</find>
+      <find>change</find>
+      <find>Color</find>
+      <find>Configuration</find>
+      <find>Slave</find>
+      <find>Ss</find>
+      <find>Identifi</find>
+      <find>Gr</find>
+      <find>OnlineAfterTimeout</find>
+      <find>Timeout</find>
+      <find>IpAdd</find>
+      <find>Timestamp</find>
+      <find>AddCon</find>
+      <find>ipAddress</find>
+      <find>fileStream</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Json</replace>
+      <replace>InfoDatabaseHandler</replace>
+      <replace>UdpHandler</replace>
+      <replace>Error ocurred</replace>
+      <replace>occurred</replace>
+      <replace>message.getInt(SlaveInformation.SsidA.name)</replace>
+      <replace>override fun</replace>
+      <replace>60_000</replace>
+      <replace>config</replace>
+      <replace>ir</replace>
+      <replace>slave</replace>
+      <replace>it</replace>
+      <replace>Thread.sleep(150)</replace>
+      <replace>Thread.sleep(200)</replace>
+      <replace>Thread.sleep(250)</replace>
+      <replace>Thread.sleep(300)</replace>
+      <replace>Thread.sleep(500)</replace>
+      <replace>Thread.sleep(sleepTimeout)</replace>
+      <replace>1.3.21</replace>
+      <replace>$kotlin_version</replace>
+      <replace>success</replace>
+      <replace>enumstorage</replace>
+      <replace>Device</replace>
+      <replace>Gobo</replace>
+      <replace>Image</replace>
+      <replace>Manufacturer</replace>
+      <replace>Type</replace>
+      <replace>Slave</replace>
+      <replace>Show</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/kotlin/at/nlc/notificationmanager/enums/port/SerialPorts.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/at/nlc/notificationmanager/enums/port/LicenseCommands.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/at/nlc/notificationmanager/enums/update/UpdateCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/at/nlc/notificationmanager/enums/error/Message.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/at/nlc/notificationmanager/error/client/ErrorClientRequest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/at/nlc/notificationmanager/enums/update/FirmwareType.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/at/nlc/notificationmanager/enums/update/VersionType.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/at/nlc/notificationmanager/error/manager/ErrorManagerResponse.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/at/nlc/notificationmanager/database/manager/response/DatabaseManagerResponse.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/at/nlc/notificationmanager/enums/database/DatabaseType.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/error/MessageType.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/license/LicenseState.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/stage/Command.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/Language.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/language/Language.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/slave/SlaveStatus.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/NotificationInformation.kt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/update/Repositories.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/update/VersionType.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/update/FirmwareType.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/update/UpdateResponse.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/update/UpdateCommandValues.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/update/UpdateInformation.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/update.properties" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/update/ApplicationName.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/slave/SlaveResponse.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/synch/SynchResponse.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/UpdateInformation.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/EnumStorageRunner.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/database/DatabaseType.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/manufacturer/Manufacturer.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/type/Type.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/device/Device.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/color/Color.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/stage/StageCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/database/DatabaseValue.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/database/DatabaseCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/image/Image.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/api/ApiValue.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/slave/SlaveInformation.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/slave/SlaveCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/message/MessageCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/message/Message.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/gobo/Gobo.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/master/MasterInformation.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/master/MasterMessage.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/synch/SynchRequest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/master/MasterCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/enumstorage/network/NetworkCommand.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="device" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="gobo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="language" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="license" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="message" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="network" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="port" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="slave" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="synch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="type" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="enumstorage" type="462c0819:PsiDirectoryNode" />
+              <item name="update" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EnumStorage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EnumStorage" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="notificationmanager" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567938051817" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mgraf\IdeaProjects\NLC\EnumStorage\src\main\resources" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="enumstorage.api" />
+      <recent name="enumstorage.slave" />
+      <recent name="enumstorage.language" />
+      <recent name="enumstorage.stage" />
+      <recent name="databasemanager.database.enums" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="enumstorage.master" />
+      <recent name="enumstorage.color" />
+      <recent name="enumstorage.gobo" />
+      <recent name="enumstorage.image" />
+      <recent name="enumstorage.device" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mgraf\IdeaProjects\NLC\EnumStorage\libs" />
+      <recent name="C:\Users\mgraf\IdeaProjects\NLC\EnumStorage\src\main\kotlin\enumstorage\synch" />
+      <recent name="C:\Users\mgraf\IdeaProjects\NLC\EnumStorage\src\main\kotlin\enumstorage" />
+      <recent name="C:\Users\mgraf\IdeaProjects\NLC\NotificationManager\src\main\kotlin\at\nlc\notificationmanager\enums\update" />
+      <recent name="C:\Users\graf\IdeaProjects\NotificationManager\src\main\kotlin\at\nlc\notificationmanager\enums" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4db85aac-54f5-498a-93b9-5dbacf1c61c5" name="Default Changelist" comment="Merge branch 'develop' of github.com:NLCProject/MasterNetworkManager into develop&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/kotlin/masternetworkmanager/slave/SlaveHandler.kt&#10;#&#9;src/main/kotlin/masternetworkmanager/slave/SlaveStatus.kt" />
+      <created>1550131702303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550131702303</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Merge branch 'develop' of github.com:NLCProject/MasterNetworkManager into develop&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/kotlin/masternetworkmanager/slave/SlaveHandler.kt&#10;#&#9;src/main/kotlin/masternetworkmanager/slave/SlaveStatus.kt">
+      <created>1551774595202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551774595202</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Now multiple dummies can be added as TXT file in the ressource folder">
+      <created>1552667055867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552667055867</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Geo Position field added&#10;Rotation field added&#10;Geo Position Rotation added">
+      <created>1552861557389</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552861557389</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Command Socket Bugfix">
+      <created>1553188011166</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1553188011166</updated>
+    </task>
+    <task id="LOCAL-00005" summary="- Bugfixing&#10;- Junit tests finished">
+      <created>1553604443514</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1553604443515</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Identification via Request ID now">
+      <created>1553613960092</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553613960092</updated>
+    </task>
+    <task id="LOCAL-00007" summary="JUnit tests running full-functionally">
+      <created>1553689964967</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553689964967</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Bugfixing&#10;&#10;Open: Problem with GetAllRecords when pushing into queue on client">
+      <created>1553697869599</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553697869599</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Bugfixing">
+      <created>1553777345410</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553777345410</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Bugfixing">
+      <created>1554136727186</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554136727186</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Bugfixing">
+      <created>1554223412957</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554223412958</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Bugfixing to add, rename and delete a DDF table">
+      <created>1555152994278</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1555152994278</updated>
+    </task>
+    <task id="LOCAL-00013" summary="DDF database modifier added, fixed and improved (change, add, rename, is available, get active show, get all shows)">
+      <created>1555513972493</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1555513972493</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Corrupt run configuration removed">
+      <created>1560286384755</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1560286384755</updated>
+    </task>
+    <task id="LOCAL-00015" summary="New Entries">
+      <created>1560533259112</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1560533259112</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Enum architecture finished">
+      <created>1560535519170</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1560535519170</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Gradle build updated">
+      <created>1560535571510</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1560535571510</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Values updated">
+      <created>1560536551508</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1560536551508</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Values updated">
+      <created>1560720561712</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1560720561712</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Refactoring">
+      <created>1560980562509</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1560980562509</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Enum added">
+      <created>1561059910412</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1561059910412</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Enum changed">
+      <created>1561235119336</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1561235119336</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Bugfixing">
+      <created>1561491067293</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1561491067293</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Bugfixing">
+      <created>1561491203243</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1561491203243</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Enums added">
+      <created>1562621195647</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1562621195647</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Refactoring">
+      <created>1562932554450</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1562932554450</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Refactoring">
+      <created>1563218215938</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1563218215938</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Refactoring">
+      <created>1563317305503</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1563317305503</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Refactoring">
+      <created>1563402001236</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1563402001236</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Refactoring">
+      <created>1563485616704</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1563485616704</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Refactoring">
+      <created>1563494031077</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1563494031077</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Refactoring">
+      <created>1563745785795</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1563745785795</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Refactoring">
+      <created>1563814305176</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1563814305176</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Error properties updated and refactored">
+      <created>1563906849759</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1563906849759</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Bugfixing">
+      <created>1565197675059</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1565197675059</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DatabaseTest - 2019.03.28 at 11h 43m 22s.xml">
+      <configuration name="DatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatabaseTest - 2019.03.28 at 11h 46m 25s.xml">
+      <configuration name="DatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatabaseTest - 2019.03.28 at 11h 50m 05s.xml">
+      <configuration name="DatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatabaseTest - 2019.03.28 at 11h 50m 14s.xml">
+      <configuration name="DatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatabaseTest - 2019.03.28 at 11h 50m 22s.xml">
+      <configuration name="DatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatabaseTest - 2019.03.28 at 11h 50m 33s.xml">
+      <configuration name="DatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatabaseTest - 2019.03.28 at 11h 51m 16s.xml">
+      <configuration name="DatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatabaseTest - 2019.03.28 at 11h 51m 28s.xml">
+      <configuration name="DatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatabaseTest - 2019.03.28 at 11h 52m 09s.xml">
+      <configuration name="DatabaseTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DatabaseTest - 2019.03.28 at 11h 52m 27s.xml">
+      <configuration name="DatabaseTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.271855" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32502398" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39980826" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4989059" weight="0.7340425" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32885906" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010941" side_tool="true" weight="0.52437705" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" order="10" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4989339" weight="0.3261105" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" weight="0.28198293" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1977612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32502398" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41418985" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39980826" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32885906" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" sideWeight="0.49946696" weight="0.32981783" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4989339" weight="0.3279003" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" weight="0.11567164" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Merge branch 'develop' of github.com:NLCProject/MasterNetworkManager into develop&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/main/kotlin/masternetworkmanager/slave/SlaveHandler.kt&#10;#&#9;src/main/kotlin/masternetworkmanager/slave/SlaveStatus.kt" />
+    <MESSAGE value="Now multiple dummies can be added as TXT file in the ressource folder" />
+    <MESSAGE value="Geo Position field added&#10;Rotation field added&#10;Geo Position Rotation added" />
+    <MESSAGE value="Command Socket Bugfix" />
+    <MESSAGE value="- Bugfixing&#10;- Junit tests finished" />
+    <MESSAGE value="Identification via Request ID now" />
+    <MESSAGE value="JUnit tests running full-functionally" />
+    <MESSAGE value="Bugfixing&#10;&#10;Open: Problem with GetAllRecords when pushing into queue on client" />
+    <MESSAGE value="Bugfixing to add, rename and delete a DDF table" />
+    <MESSAGE value="DDF database modifier added, fixed and improved (change, add, rename, is available, get active show, get all shows)" />
+    <MESSAGE value="Corrupt run configuration removed" />
+    <MESSAGE value="New Entries" />
+    <MESSAGE value="Enum architecture finished" />
+    <MESSAGE value="Gradle build updated" />
+    <MESSAGE value="Values updated" />
+    <MESSAGE value="Enum added" />
+    <MESSAGE value="Enum changed" />
+    <MESSAGE value="Enums added" />
+    <MESSAGE value="Refactoring" />
+    <MESSAGE value="Error properties updated and refactored" />
+    <MESSAGE value="Bugfixing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bugfixing" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/at/nlc/notificationmanager/database/manager/response/DatabaseManagerResponse.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/at/nlc/notificationmanager/database/client/request/DatabaseClientRequest.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/at/nlc/notificationmanager/enums/database/DatabaseType.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/interfaces/IRequest.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/enums/SlaveStatus.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/license/LicenseDatabaseCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/NotificationInformation.kt" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/api/ApiSuccess.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/update/Repositories.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/update/VersionType.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/update/FirmwareType.kt" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="47" selection-start-line="78" selection-start-column="47" selection-end-line="78" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/update/UpdateCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/update.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/UpdateInformation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/EnumStorageRunner.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#21#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/type/Type.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/color/Color.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/manufacturer/Manufacturer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/stage/StageCommand.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/slave/SlaveCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/image/Image.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/api/ApiValue.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/database/DatabaseType.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/database/DatabaseValue.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/license/LicenseInformation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/license/LicenseState.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/license/LicenseType.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/message/Message.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/message/MessageCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/message/MessageType.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/slave/SlaveInformation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/slave/SlaveResponse.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/synch/SynchResponse.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/update/ApplicationName.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/slave/SlaveStatus.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/synch/SynchRequest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/master/MasterInformation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/master/MasterMessage.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/update/UpdateCommandValues.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/update/UpdateInformation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/update/UpdateResponse.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/language/Language.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/port/SerialPorts.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/master/MasterCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/database/DatabaseCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/network/NetworkCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/gobo/Gobo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/enumstorage/device/Device.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>EnumStorage</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>enumstorage.EnumStorage</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: commons-io:commons-io:2.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
